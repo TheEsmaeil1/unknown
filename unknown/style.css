@@ -1,0 +1,22 @@
+body {
+    font-family: 'Vazir', sans-serif;
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 600px;
+    margin-top: 50px;
+}
+
+.rtl {
+    direction: rtl;
+    text-align: right;
+}
+
+.btn-primary {
+    transition: background-color 0.3s;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
